@@ -1,5 +1,7458 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 11,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": " In the jook houses and doing any kind of work at all, chopping wood and in the lumber camps and everywhere you find this song. No where you can't find parts of this song, 'Mule on the Mount'."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a75d836e-c7d8-4f0e-b8d9-65addf8b0aa3"
+    },
+    {
+      "start_time": 11,
+      "end_time": 15,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, is it known, is it a consistent song as you hear it all over?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1a69c41e-c331-480b-9501-118086e480dc"
+    },
+    {
+      "start_time": 16,
+      "end_time": 24,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The tune is consistent but the verses, you know how things, in every locality you can find some new verses, everywhere."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "86f49504-ce3d-4361-9346-56f9086e2f5d"
+    },
+    {
+      "start_time": 23,
+      "end_time": 23,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I mean does it have the same choral verses? Does it have 'Mule on the Mount' wherever you hear it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e47d2720-fa04-43a5-9859-b040eb457655"
+    },
+    {
+      "start_time": 27,
+      "end_time": 33,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, there's some place that I haven't heard that same verse 'Mule on the Mount' but there's no place that I don't hear some of the same verses."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "056aecab-96b0-4866-8335-4ef1eeff3dc7"
+    },
+    {
+      "start_time": 34,
+      "end_time": 38,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Where did you learn it this particular way?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2fd47fd5-85e6-45c9-a505-7b757d0a7e73"
+    },
+    {
+      "start_time": 38,
+      "end_time": 43,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, I heard the first verses, I got it in my native village of Eatonville, Florida from George Thomas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8d0dbd23-efea-4114-a7a8-caea6ffe5788"
+    },
+    {
+      "start_time": 45,
+      "end_time": 47,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And this is one version you're going to sing?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c9864cbb-fa73-4c2d-a4d2-9f662e047ef0"
+    },
+    {
+      "start_time": 47,
+      "end_time": 52,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I'm going to sing, oh I guess, all the tune is the same. I'm going to sing verses from a whole lots of places."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3e7d6a27-1117-4538-bdfb-36770beb2a6f"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "767537d3-124d-4130-b3da-8a07c371dfb2"
+    },
+    {
+      "start_time": 218,
+      "end_time": 226,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "When you hear that sung, or nearly sung, about how many verses does a man know? He doesn't know as many as you do."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "255e9464-1684-44d7-94d2-56cee060723e"
+    },
+    {
+      "start_time": 226,
+      "end_time": 229,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes, sometimes they sing 30 and 40 verses."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "db2405f1-9f78-4cd9-8744-6617e20ca5eb"
+    },
+    {
+      "start_time": 229,
+      "end_time": 230,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Is one of these continuous?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f92ad968-ae3b-4d07-8872-7ce4629c7f57"
+    },
+    {
+      "start_time": 230,
+      "end_time": 235,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "It's one of these things that's grown by incremental repetition until perhaps it's the longest song in America."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "43427744-a61a-4342-b25f-0ee65e3384e6"
+    },
+    {
+      "start_time": 236,
+      "end_time": 236,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "64fb8330-2ce5-492f-9067-6c4c51d0bdd4"
+    },
+    {
+      "start_time": 238,
+      "end_time": 238,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston laughs [distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "21b660d0-2bf2-4039-8aef-d3f73e26d37d"
+    },
+    {
+      "start_time": 247,
+      "end_time": 248,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What's your name, please?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "325dacb2-f641-4e7b-b4de-2ecd406a1d8c"
+    },
+    {
+      "start_time": 248,
+      "end_time": 249,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Beatrice Lange."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ed5aa8bf-a837-43e6-8184-814290d6c416"
+    },
+    {
+      "start_time": 250,
+      "end_time": 251,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Where do you come from?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "07253398-2127-48c1-ad6a-5b6c658abc24"
+    },
+    {
+      "start_time": 252,
+      "end_time": 254,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I came from South Georgia."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "26e2ecaa-7b33-4cea-8b57-3c6fd0f06dc8"
+    },
+    {
+      "start_time": 255,
+      "end_time": 256,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Where? What part of South Georgia?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0f629419-ad12-49ab-9f72-d64054c7ebbd"
+    },
+    {
+      "start_time": 256,
+      "end_time": 257,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Woodbine."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1003ccb8-887d-4595-83db-553fb2b2c3d8"
+    },
+    {
+      "start_time": 257,
+      "end_time": 258,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And how old are you?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c1017c17-dcae-450b-9c30-b7cd56e1935c"
+    },
+    {
+      "start_time": 259,
+      "end_time": 259,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "35"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "23a9eea7-c3d4-4e56-965e-5410d7d39d4c"
+    },
+    {
+      "start_time": 260,
+      "end_time": 262,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And what are you going to tell us or?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e804bb62-4ce1-4ef0-a940-ca9fb9d1466e"
+    },
+    {
+      "start_time": 262,
+      "end_time": 266,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, I'm going to tell some folk stories that my brother-in-law told me."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "487f57c5-92fd-4dd0-bf18-e97afb5c30ed"
+    },
+    {
+      "start_time": 267,
+      "end_time": 268,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How long ago?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b180e45f-4081-4a28-8b1b-01fe4e0b3296"
+    },
+    {
+      "start_time": 268,
+      "end_time": 270,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "About a year ago."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d635852d-d853-4a85-9d3e-f1d41d0cabb6"
+    },
+    {
+      "start_time": 270,
+      "end_time": 271,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "A short, a short while back."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c19fc3ec-36cd-4fe2-8b91-e5eac66ab9a7"
+    },
+    {
+      "start_time": 271,
+      "end_time": 274,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, it happened longer than that but he told me about a year ago."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "81381491-8842-4aee-ab51-7716ec44bf21"
+    },
+    {
+      "start_time": 274,
+      "end_time": 277,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I mean, how did it, it happened long ago . . . what do you mean by that?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e0745b95-aef3-4e76-be39-332f9ade0f44"
+    },
+    {
+      "start_time": 277,
+      "end_time": 280,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I mean that the story happened longer than that."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6af970d8-4093-439e-9093-d620ae37dc41"
+    },
+    {
+      "start_time": 280,
+      "end_time": 282,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, how did it go? I mean how did it --"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7f317d37-24a5-4390-bfcd-677953219703"
+    },
+    {
+      "start_time": 282,
+      "end_time": 286,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, this old negro of his told him about it. The negro belonged to his father."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2d1685b0-03f5-45a0-8e14-e374c801adba"
+    },
+    {
+      "start_time": 287,
+      "end_time": 287,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh-huh"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7fa05f19-b4e5-481f-b2eb-c5c406fc5f3f"
+    },
+    {
+      "start_time": 287,
+      "end_time": 289,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Who had a rice plantation."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ce66a79e-e63b-4312-b3cd-ff76956a8f95"
+    },
+    {
+      "start_time": 290,
+      "end_time": 293,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The negro told it to him when? I mean did he ever tell you that?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "042cece3-d32e-4e9c-ae3a-96328ef88f10"
+    },
+    {
+      "start_time": 293,
+      "end_time": 296,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "About six months to a year ago."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6c3a70c9-0e72-47cf-82c7-5acd599a7c44"
+    },
+    {
+      "start_time": 296,
+      "end_time": 298,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I mean the negro had just told him the story?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2e91b4c6-b070-40c0-836d-bbd300169edc"
+    },
+    {
+      "start_time": 298,
+      "end_time": 300,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes, while he was working with him."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "10bf682c-bf32-44f9-9a8a-446fe52b01e5"
+    },
+    {
+      "start_time": 300,
+      "end_time": 306,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I see. And you don't have any name for it? Is that right?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "02e7cd5c-fcd1-4fa9-8cf5-5b705b259b41"
+    },
+    {
+      "start_time": 307,
+      "end_time": 310,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, uh, it's a storm story, a hurricane story."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "32f4f27c-6ec7-4f66-9da4-ae64278372df"
+    },
+    {
+      "start_time": 311,
+      "end_time": 312,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Just, okay, [laughing] go ahead ."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bfcd7578-675f-4194-8c4c-deb6bccca6d2"
+    },
+    {
+      "start_time": 312,
+      "end_time": 315,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I have several stories though. This is just one."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "43289bfd-b152-4f1c-b07f-6c636b61fd1b"
+    },
+    {
+      "start_time": 315,
+      "end_time": 318,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, let's start off with just one. That's the easiest way."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ddd754d9-1ad5-4a63-bd46-9c7ba2949080"
+    },
+    {
+      "start_time": 318,
+      "end_time": 319,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright, sir."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "180f34e3-877e-463a-a8ef-50e99812b953"
+    },
+    {
+      "start_time": 319,
+      "end_time": 322,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright. Well, can you tell it or are you going to tell it or read it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5b6006ec-7ed2-46ca-88c4-45b4da6bb5e9"
+    },
+    {
+      "start_time": 322,
+      "end_time": 323,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well I can kind of glance at it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8eb472a1-3f37-4eb9-b8d6-43c3858c0dbd"
+    },
+    {
+      "start_time": 324,
+      "end_time": 325,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright. Go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8f912f57-4cf3-476e-b400-8a29f749c3cf"
+    },
+    {
+      "start_time": 326,
+      "end_time": 333,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, this story happened during the fall of 1898 upon a small island off of the coast of Georgia"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f7dd414e-9938-4f85-8dec-f64d646b0c61"
+    },
+    {
+      "start_time": 334,
+      "end_time": 343,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Where the sea level was very low. Came a hurricane which covered the whole island in several feet of water and most of the natives had to swim around in their homes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "94ff4bf4-33d1-41b2-9fcc-6d0c04548ade"
+    },
+    {
+      "start_time": 343,
+      "end_time": 350,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "One particular instance which calls to mind is that of an old negrum owned by one of the early rice planters."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9e0a271b-980b-4308-8bb0-bf4e080b2b16"
+    },
+    {
+      "start_time": 351,
+      "end_time": 362,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "He tells: Yes sir, we were swimming around in that water trying to find a shallow place when we seen some of them pretty long neck bottles floating around. Look like them water in 'em."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d7d0f9a1-6359-4f49-8426-2023abc83226"
+    },
+    {
+      "start_time": 362,
+      "end_time": 376,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "So we drink some and before long we was glad to have some been come because it sure made us feel good. Sure wish I could have some of that stuff now. Boss, I believe that been shampoo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8a839ece-d0a7-4385-bdb3-e56a96e425f4"
+    },
+    {
+      "start_time": 377,
+      "end_time": 382,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Further on the flooded plantation, the boss paddled his canoe up to the loft of the barn."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d1cfec9d-47f1-470c-b049-6e4f31fd626c"
+    },
+    {
+      "start_time": 382,
+      "end_time": 401,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "There sat another of his n-- with a big stick in his hand as if he was going to strike something. Even that the hole in the side of the barn where the [inaudible] was stored had looked as if a board had been torn off. He glanced over in the corner and there'n a pile of dead coons which looked like a hundred or so."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "940c19f2-7380-40e4-81eb-1e8e8cb00bec"
+    },
+    {
+      "start_time": 401,
+      "end_time": 433,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "As the boss approached, he said, 'By grade, Tom, what have you been doing here?' He replied in a dramatic voice, 'Boss, I's just been praying all the time, how's that good for the ole master to come take this water back where it belong so we's could get back to work. Boss, I've been a praying every chance that I'm got to liberation.' 'Well, from the looks of the coons you killed, you didn't have time to pray much, Tom'. 'Mass Donald,  I wouldn't have killed 'em but they kept barring me from praying all the time.'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6944c581-2704-4c9e-92e5-c82913f9a393"
+    },
+    {
+      "start_time": 433,
+      "end_time": 446,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Another story I told of an old native of Georgia came to Florida in the nineties to seek adventure. This old cracker who really lived in the backwoods had a name of being the biggest liar in the country."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "239c645c-9c71-4d0e-88c7-2ff6b5fa870e"
+    },
+    {
+      "start_time": 446,
+      "end_time": 452,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now look, suppose you don't read it from there and you just tell me it as a story. Go ahead. You can do it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "49247757-6854-4db5-9308-b9c28d2ec266"
+    },
+    {
+      "start_time": 451,
+      "end_time": 452,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Just let me glance at it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e1255b25-c69c-4750-9724-2f1bfc652952"
+    },
+    {
+      "start_time": 452,
+      "end_time": 452,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright. Go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1d5c4027-caab-4e6e-a7d0-c3e4772566bf"
+    },
+    {
+      "start_time": 452,
+      "end_time": 453,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "54e312ae-b3d6-4862-b46c-c68e82561cea"
+    },
+    {
+      "start_time": 455,
+      "end_time": 455,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f9cbd7a7-d508-435d-b12c-b5ad2e932a14"
+    },
+    {
+      "start_time": 456,
+      "end_time": 467,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "He said me and my son Israel, we went down to Floridy to pick oranges. Huh. They grow so big you can fill a water bucket full with four of 'em."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "db9e0718-3389-4e59-8ac6-bddd42ab95d0"
+    },
+    {
+      "start_time": 468,
+      "end_time": 484,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The alligators, they were so tame, and I bet we had about a hundred and fifty, every day we went down to the palmetto patch and whistled and they would come running under the palmetto patch at me and crawl up on my shoulders and talk to me."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "738a9cb5-c52a-4547-9af6-c7a0577e171a"
+    },
+    {
+      "start_time": 486,
+      "end_time": 496,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Why down there we cut down the palmetto trees to make fence posts and they is the best you ever seen. They would last a hundred years. I know because I tried them twice."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c6c43cc7-43a1-4d85-afb1-325ad4caaebf"
+    },
+    {
+      "start_time": 505,
+      "end_time": 625,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Surely, but I have to give all that other data.  My name is Zora Neale Hurston and I'm going to sing a gambling song that I collected at Boston Florida. Turpentine is still there. And the men are playing a game called Georgia Skin. That's the most favorite gambling scheme among the workers of the South. And they lose money on the drop of a card, the fall of a card. And there's a rhythm to the fall of the card and after they get set with the two principles and the other people are called pikers and anybody that wants a special card, he pick it out and they call that, uh, picking one in the rough."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6bb9f76a-4c84-418e-b237-8c85097c4f65"
+    },
+    {
+      "start_time": 550,
+      "end_time": 556,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I think it's better if you explain just how the cards, which way the cards get out or how people are standing there before you go on."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b743994d-37db-4061-9b4e-cf47be6a1980"
+    },
+    {
+      "start_time": 557,
+      "end_time": 557,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, you see, they take a deck of cards and they shuffle it real good and watch the man to be sure he don't steal nothing. That is, that he don't set a cub. There are four cards of every kind in the deck. And when the card like the card you have selected falls, you lose. Sometimes if you don't watch the dealer he'll put three cards just like his own down at the bottom of the deck so that everybody falls before he does and then he wins all the money."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f9aec728-6682-4da8-87a7-c26898126ad8"
+    },
+    {
+      "start_time": 581,
+      "end_time": 581,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, what does he do? Is the dealer holding the deck of cards?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9f462d42-ffbb-4311-8c72-48f4e85a7315"
+    },
+    {
+      "start_time": 584,
+      "end_time": 584,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And he puts it on the table. They don't allow him to hold it because they're afraid he'll steal."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2dc4f4ef-77c6-4b4f-99e7-ba71427f2920"
+    },
+    {
+      "start_time": 588,
+      "end_time": 588,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "53a4c1d0-1522-42b1-98e0-c8faf030fb9b"
+    },
+    {
+      "start_time": 588,
+      "end_time": 588,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "So they, he puts it on the table and he turns over a card."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3afcd7bf-fa82-437c-ad7a-0fcdeef81de4"
+    },
+    {
+      "start_time": 592,
+      "end_time": 592,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "He just turns over . . ."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1503821e-0ce4-4ec8-b97f-ebb64098c958"
+    },
+    {
+      "start_time": 593,
+      "end_time": 593,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Card by card and if the card is just like yours, when it falls, you lose. And, uh, so they holler when he gets all set, when the principles has got their cards and the pikers has got theirs and then the man will say he wants them to put the bets down and he'll say 'Put the money on the wood, and make the bet go good and then again, put it insight and save a fight' and so they all get the bets down and then he start and they'll holler, 'Let the deal go down, boys, let the deal go down'.  And someone will start singing."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1d2354dd-b1c5-434e-973e-ad94549502e3"
+    },
+    {
+      "start_time": 778,
+      "end_time": 819,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uncle Bud is not a work song. It's a sort of social song for amusement and it's so widely distributed, it's growing all the time by incremental repetition, and it is known all over the South. No matter where you go you can find verses of Uncle Bud. And, uh, it's a favorite song. And the men get to working in every kind of work and they just yell down on Uncle Bud and nobody particular leads it. Everybody puts in his verse when he gets ready and Uncle Bud goes and goes and goes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "46d9a44f-6454-40ca-a2f8-6b3352c645a5"
+    },
+    {
+      "start_time": 808,
+      "end_time": 813,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What, is it sung before the respectable ladies?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "230f9e8c-29d3-43a6-93e8-58905551bb1b"
+    },
+    {
+      "start_time": 813,
+      "end_time": 819,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Never! It's one of those jook songs and the woman that they sing Uncle Bud in front of is a jook woman."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2390e4e0-89e4-4b1f-b8d5-efe6b54af51d"
+    },
+    {
+      "start_time": 821,
+      "end_time": 823,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I thought you heard it from women?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "59fb8299-41ce-4f9e-951b-8203ab0df95f"
+    },
+    {
+      "start_time": 823,
+      "end_time": 825,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes, I heard it from women [laughs]."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c1b3780f-38ca-4e39-8b87-b94baf3e50ad"
+    },
+    {
+      "start_time": 825,
+      "end_time": 826,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d33a2b74-378e-4caa-891b-4de52f2fa2d6"
+    },
+    {
+      "start_time": 954,
+      "end_time": 956,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Is there more to it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0aa56ab2-6cc5-4736-aad6-fab4d468b12d"
+    },
+    {
+      "start_time": 958,
+      "end_time": 961,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I know I know some more verses but right off I don't recall."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "24557581-f8ec-435c-b4fd-070f2f657b00"
+    },
+    {
+      "start_time": 965,
+      "end_time": 967,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I think that's a very valuable contribution to scientific recording."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9d8a9fe5-6978-4647-9398-fad344be1fa4"
+    },
+    {
+      "start_time": 972,
+      "end_time": 972,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1b2a883c-a294-4c98-8ebe-089a9031232b"
+    },
+    {
+      "start_time": 972,
+      "end_time": 983,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh the Buford Boat Done Come' is a song from the Geechee country in South Carolina but I heard it down in Florida from a Geechee that moved down in Florida. I forget her name right now."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fdbcaa15-a126-4293-9660-ec12f663898b"
+    },
+    {
+      "start_time": 983,
+      "end_time": 983,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, what type of song is it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "020e4c87-3cbd-47c4-b33e-36b4da9a9de8"
+    },
+    {
+      "start_time": 984,
+      "end_time": 984,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "It's a little dance song with a Charleston rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2dfddb9e-1f90-4ec6-a3f9-a4833cd501df"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1022,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How do they play it? Would you tell us very quickly?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aadcb03a-7a9c-4acf-93ed-6b7c0890f63b"
+    },
+    {
+      "start_time": 1022,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, it's just a dance song and then they dance a Charleston rhythm on it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "383fcc85-7bc6-4695-9156-52eec82dc3ac"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1028,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Was it, is it solo dancing?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "776365a6-374b-4f8d-8869-d164eed9b32b"
+    },
+    {
+      "start_time": 1028,
+      "end_time": 1029,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "No, group dancing."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "63941cce-d1fc-416b-9cd8-5075860f11ca"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1031,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, what kind of group is it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "76d8ef4a-8ad2-490d-81d6-799007d7a1fe"
+    },
+    {
+      "start_time": 1031,
+      "end_time": 1034,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh, just any group, any working group, and they'll clap their hands on it and sing."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6c5020ae-ecdc-4765-b157-56cddba58309"
+    },
+    {
+      "start_time": 1043,
+      "end_time": 1049,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I'm a sing a blues, 'Cuz Ever Been Down', and I got it at Palm Beach from a fellow named from Johnny Bardon."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ec3b5118-5732-4dc8-984a-24b3792a95e7"
+    },
+    {
+      "start_time": 1050,
+      "end_time": 1052,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Where did you get it"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e9bcb1fe-cb60-47be-88e8-f6a0c432430f"
+    },
+    {
+      "start_time": 1053,
+      "end_time": 1055,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I got it in 1933."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1ea89bb9-2474-4cc8-86fe-4a761a5c4635"
+    },
+    {
+      "start_time": 1056,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Can you tell me, do you know how old a Blues it is? And how you happened to learn it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "54abe769-ed29-4d40-955e-004b659c040a"
+    },
+    {
+      "start_time": 1061,
+      "end_time": 1074,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, it's one of those things just go around all the jooks and what not like that and it goes by incremental repetition, a verse here and a verse there. I don't suppose anybody knows how old it is and when it started."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cdeba5b5-3655-4867-97c7-b3d7c9b42ae9"
+    },
+    {
+      "start_time": 1189,
+      "end_time": 1194,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I heard 'Halimuhfack' down on the East Coast."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8d12a910-a21f-4094-8767-a11fa8b53813"
+    },
+    {
+      "start_time": 1195,
+      "end_time": 1196,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Who did you hear it from and when?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "01332a3b-7582-40f0-987e-3f1aa01dcaf0"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I don't remember. I was in a big crowd and I learned it in the evening during the crowd. And I'm just, don't can't exactly remember who I, who did teach it to me but I learned it from the crowd most exactly more from one."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4dd26ded-73f0-4954-bbb6-8b7892f2c27a"
+    },
+    {
+      "start_time": 1272,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You said you learned it in a crowd. How do you learn most of your songs?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b6b66345-c535-4baf-8f0c-90da956f25cd"
+    },
+    {
+      "start_time": 1276,
+      "end_time": 1303,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I learn them. I just get in the crowd with the people if they singing and I listen as best I can and I start to joining in with a phrase or two and then finally I get so I can sing a verse and then I keep on until I learn all the songs, all the verses, and then I sing them back to the people until they tell me that I can sing them just like them and then I take part and I try it out on different people who already know the song until they are quite satisfied that I know it and then I carry it in my memory."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "864f375f-368b-435f-a9c7-b3bc9f6ad017"
+    },
+    {
+      "start_time": 1303,
+      "end_time": 1307,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well how about those that you have in your books and publish in the journals?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "55a156d4-d982-4092-98b4-bb93c8fd308e"
+    },
+    {
+      "start_time": 1307,
+      "end_time": 1313,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, that's the same way I got them. I learn the song myself and then I can take it with me wherever I go because I -- [cut off]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aa7303ce-3f63-4594-8d2a-763b60c97fd3"
+    },
+    {
+      "start_time": 1326,
+      "end_time": 1326,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is a song, uh, called 'Tampa'. I've known it ever since I could remember so I don't know who taught it to me but I heard it sung in my native village when I was a child, not in front of the old folks, of course."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "30a8b0b4-b073-4670-b5eb-ca0113592cbb"
+    },
+    {
+      "start_time": 1388,
+      "end_time": 1390,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You say that was uh. . . when was that sung?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9bb8884d-b757-4d7e-9b02-cc53a986e7d7"
+    },
+    {
+      "start_time": 1391,
+      "end_time": 1391,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I've known it all my life. No, it was not confined to children. Everybody sung and danced on it. And you hear a Negro orchestra, a local orchestra, they often played it now, played the tune. They don't sing the words but the tune is one of their favorite dance tunes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "435df77e-afba-4763-95db-a93ba0e5ad8a"
+    },
+    {
+      "start_time": 1406,
+      "end_time": 1406,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "10b8af34-5a51-4ce9-886d-1a2d812ae0c6"
+    },
+    {
+      "start_time": 1407,
+      "end_time": 1427,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This one. Some of them call it 'Po Boy' and some of them call it 'Po Gal' but it's a pretty well-distributed blues tune all over the South. The words are not rhymed. It's a typical Negro pattern. The same line repeated three times with a sort of flip line on the end and the change is in the tune rather than the words for the most part."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "76b5ef25-b4dc-43e7-b924-e364f0c2cff3"
+    },
+    {
+      "start_time": 1428,
+      "end_time": 1430,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Where did you pick up the way you sing it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b79c002e-3516-4ba1-bc8a-43aac9d6b298"
+    },
+    {
+      "start_time": 1431,
+      "end_time": 1436,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I'm - no, not all my life but I kept learning verses as I've gone around."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "21013add-a75f-4ffc-83e2-56da5809733b"
+    },
+    {
+      "start_time": 95580,
+      "end_time": 95580,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How do you want this?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3aa4c952-0b8a-4a73-b837-d2f7aafffd06"
+    },
+    {
+      "start_time": 1593,
+      "end_time": 1594,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Just play it for me in ballad."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7fafe0d3-9b5f-4140-996f-8fb6a536e530"
+    },
+    {
+      "start_time": 1595,
+      "end_time": 1621,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Mama Don't Want No Peas No Rice' is a song from Nassau in the Bahama islands. They are great song makers and their tunes are decidedly more African than the ones made by the negroes in America. They make songs so rapidly they say 'Anything you do we put you in sing'. And in a few hours they have a song about it. Mama don't want no peas no rice is about a woman who wanted to stay drunk all the time and her husband is really complaining about it. He's explaining to the neighbors what's the matter with his wife and why they don't get along better."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "42ecd750-0763-4abb-bf93-a770139d238a"
+    },
+    {
+      "start_time": 99840,
+      "end_time": 99840,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d91d9ab9-0a46-4d58-a297-e9b4edf20994"
+    },
+    {
+      "start_time": 103440,
+      "end_time": 103440,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4aa768b6-4bb1-4474-af06-ab7d8758a4b9"
+    },
+    {
+      "start_time": 104220,
+      "end_time": 104220,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Your name, age?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ebb0c49d-872c-46c8-b1b5-67e4b6b78df0"
+    },
+    {
+      "start_time": 1738,
+      "end_time": 104700,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Evelyn Werner, 32."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4ebe0b14-aed0-4d6e-a82a-32bcea97977f"
+    },
+    {
+      "start_time": 104700,
+      "end_time": 104700,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And where were you brought up?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aa01420c-b98b-4bf1-87e7-3c21d7d032bf"
+    },
+    {
+      "start_time": 104760,
+      "end_time": 104760,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I was born and raised in Jacksonville, studied voice in Chicago but never went to college."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0296b01f-5e9b-4338-9124-c58eb7831867"
+    },
+    {
+      "start_time": 105360,
+      "end_time": 105360,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, huh, What do you mean 'voice'? Singing?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0c06876a-e134-423c-8849-0e46ee9570fa"
+    },
+    {
+      "start_time": 105480,
+      "end_time": 105480,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1c3e8dbe-0fe4-4064-ae54-b02ce62c960f"
+    },
+    {
+      "start_time": 105540,
+      "end_time": 105540,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh-huh, Alright. But you were brought up, most of your life, you spent right around here?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "33cf67d2-0056-4ceb-9b10-7144603b6a15"
+    },
+    {
+      "start_time": 105900,
+      "end_time": 105900,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, as far as the life goes, yes but I'd go to Philadelphia for a while and come back and go to Chicago for a while and come back."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "35fc1515-0dc2-4bc4-8fb9-86407e72437d"
+    },
+    {
+      "start_time": 106440,
+      "end_time": 107640,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright, now you'll tell the story. Apparently the interest in the story is just to have you talk naturally and at the same time, we'll have the story. So, would you try --"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e6a94e75-82b8-4f17-a6cc-e681faca8eed"
+    },
+    {
+      "start_time": 107040,
+      "end_time": 107040,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man: Go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "431f000b-287d-452f-9b37-ae5f2373fe0d"
+    },
+    {
+      "start_time": 107100,
+      "end_time": 107100,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, this story was told to me two years ago by one of the heirs to the Reed Plantation, Mulberry Grove, which is just south of Jacksonville. She said that right after the war when the slaves were freed she gave, she told Mariah the cook of her freedom and gave her the house at the end of the field to live in. So Mariah and all of her children set out and the youngest and the tiniest at the end of the line would fall down and get up, fall down again and get up.  So Mrs. Pearson called to Mariah and said, 'You're losing one of your children, Mariah'. And Mariah turned back and said, 'You can have that one, Miss. Pearson, if you wants it.' That's all."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cea58365-04d1-458a-a802-98d39c56899f"
+    },
+    {
+      "start_time": 1838,
+      "end_time": 1844,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Dr. Corse would you please explain why we asked to have this record made?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "583d01ba-a62c-45f2-9308-4afd9f190923"
+    },
+    {
+      "start_time": 1844,
+      "end_time": 1863,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This record was made for the purpose of recording the annunciation of an educated Southern white voice. And the story was one which was recorded by the Federal Writers as part of their work for the American guide series volume that's Florida."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "269c5c3c-ebf0-45e9-9864-11b0013db1eb"
+    },
+    {
+      "start_time": 1865,
+      "end_time": 1867,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": " Educated white woman."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5542f61a-eada-4b3a-a7d3-cb541b41ce22"
+    },
+    {
+      "start_time": 1873,
+      "end_time": 1874,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Dr. Corse will you please introduce the speaker?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eb9c2ec5-ff2c-46b8-9ea7-01a94b3568ed"
+    },
+    {
+      "start_time": 1875,
+      "end_time": 1890,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is Mrs. Rolla Southworth, State Director of the Professional Service Projects of the WPA in Florida who will give us her opinion of the recording program of the folk songs in Florida."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5bc879c0-ca79-4e7f-ad97-192e0b0272a4"
+    },
+    {
+      "start_time": 1891,
+      "end_time": 1934,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Rolla Southworth: Well, Dr. Corse it would really seem that we have finally grown up as a nation when we can spend the day recording such folklore as we have heard today. And this is only the beginning and in only one city. Think of the endless material alone throughout Florida. Now although we are in the deep South, our state, with Mr. Call, has a very cosmopolitan group. As a matter of fact, the flags of five nations have flown over Florida. Isn't that a fact? And what a wealth of material that will indicate. Personally, my greatest interest is in the Negro Folklore and how justly proud we all are of Zora Hurston whose fine literary ability and wealth of experience has made our recordings possible today."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "324b067c-b3f0-42f3-9ce1-e50fee46ce30"
+    },
+    {
+      "start_time": 116340,
+      "end_time": 116340,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e2df7fbd-2e9d-45ae-9bdd-ccc23cc30e83"
+    },
+    {
+      "start_time": 1934,
+      "end_time": 1935,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Thank you, Ms. Southworth."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e86e7986-eed8-4a42-a429-76979dc35499"
+    },
+    {
+      "start_time": 116700,
+      "end_time": 116700,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Can you state your name, your age, and your occupation?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dc2f0734-4a59-4184-a7d4-a2d341e655de"
+    },
+    {
+      "start_time": 1948,
+      "end_time": 1957,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "My name is H. W. Stuckey. I'm 43 years old. I'm a WPA instructor for the blind."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2a326d0a-8f77-4502-9e04-3534b6b89ad6"
+    },
+    {
+      "start_time": 1960,
+      "end_time": 1964,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And, uh, you are also a preacher, aren't you, sir? What congregation?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4f4e23cd-06e9-4a29-8167-3b88076854c2"
+    },
+    {
+      "start_time": 1964,
+      "end_time": 1966,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "A missionary Baptist"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "af34a915-ef46-414d-98de-7f9734eb59a9"
+    },
+    {
+      "start_time": 1967,
+      "end_time": 1974,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now, uh, this isn't part of your usual, as a missionary Baptist, does your church approve of singing?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "779f6fcd-557a-4896-87c4-661a1a5a171f"
+    },
+    {
+      "start_time": 1974,
+      "end_time": 1975,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "No sir, no sir, they do not."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "72e54cb6-9265-49d7-9e97-54a11e7771a7"
+    },
+    {
+      "start_time": 1976,
+      "end_time": 1980,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You're going to help us out with these, however?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cb407d3f-ed2f-448c-8de2-861644acd1f6"
+    },
+    {
+      "start_time": 1980,
+      "end_time": 1985,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes sir, in order to preserve these songs of my childhood days on a farm in South Carolina."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "767ba7fa-55fc-4605-b95c-3ad9a143b44e"
+    },
+    {
+      "start_time": 119160,
+      "end_time": 119160,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now you have one, you have that holler, that uh?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "82e12757-8565-44a5-b7f9-54eff6908516"
+    },
+    {
+      "start_time": 119460,
+      "end_time": 119460,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes sir."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c3fb81a0-41e9-45a7-9ef9-323539071f5f"
+    },
+    {
+      "start_time": 119520,
+      "end_time": 119520,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What, would you explain something about how it was used and when or something like that?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c217ac27-d7ea-493e-87e5-84ee70aeec64"
+    },
+    {
+      "start_time": 119820,
+      "end_time": 119820,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes sir"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "11618f33-3f31-4732-8a57-a27ce68894ee"
+    },
+    {
+      "start_time": 119880,
+      "end_time": 119880,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Go ahead. Tell me something about it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ae303896-6852-4b38-bcf5-ec6b6180f66d"
+    },
+    {
+      "start_time": 2025,
+      "end_time": 2029,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Let me interrupt you here. Now that, that, what would you call that?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8ab1d0ed-9acc-4661-96ad-c8c22cbcbca5"
+    },
+    {
+      "start_time": 2029,
+      "end_time": 2051,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "It's a farm song, made up between the boys plowing on two or more plantations; one would holler 'Hallo' and the other would answer with a second 'Hallo'. That would be a signal for knocking off time for noon, for dinner."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f9217224-f6c6-45af-bb22-76614f8febe9"
+    },
+    {
+      "start_time": 2051,
+      "end_time": 2056,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Suppose you give the effect of actually being out on the farm?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "884fa061-62ea-4af6-9e34-6f9accf4c851"
+    },
+    {
+      "start_time": 2100,
+      "end_time": 2102,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "About the fish vendor?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "deeba3d8-f297-4a56-b901-5471e3d0a01c"
+    },
+    {
+      "start_time": 2102,
+      "end_time": 2102,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "No, no there's another one without words."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "48f675b4-c780-436a-88ed-911e437e8299"
+    },
+    {
+      "start_time": 126360,
+      "end_time": 126360,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes, yes. Just a minute."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "75064377-1654-4fee-a831-8c4e7891f7bc"
+    },
+    {
+      "start_time": 126420,
+      "end_time": 126420,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The one without the words."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bbe67ad8-6b13-40d8-932b-a268f92529cd"
+    },
+    {
+      "start_time": 126720,
+      "end_time": 126720,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "OH, yes, yes. It was usually used in the afternoon mostly when the boys were knocking off work and going in to clean up or going out to call on their girls at night."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c9d99909-303a-4eb4-bc1f-30301aa79b11"
+    },
+    {
+      "start_time": 127320,
+      "end_time": 127320,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How would it sound, suppose someone had just haerd it, what would they hear?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "df27a093-79b7-4c2d-a974-1fc18c97ec23"
+    },
+    {
+      "start_time": 2151,
+      "end_time": 2153,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Where would the two of them be?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a79c825a-1aa8-44b3-b695-29515a683768"
+    },
+    {
+      "start_time": 2154,
+      "end_time": 2172,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, it'd be in the afternoon and they usually had one big plantation a well where the boys from the different fields would water their stock. And they would be unhooking from the plowers, the planters, and distributers, and going to water their mules and put them in the lot for the night when they start these hollers."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "98797f74-7a8a-436b-9485-2d586745db70"
+    },
+    {
+      "start_time": 2174,
+      "end_time": 2176,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Would they be near each other? Or? Or?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "953d8768-b1ae-4517-b913-66cfd436dc48"
+    },
+    {
+      "start_time": 2176,
+      "end_time": 2179,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Possibly sometimes a quarter mile or a half a mile away"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5a23c6ab-575a-468f-b73e-3edb0b7130ce"
+    },
+    {
+      "start_time": 2179,
+      "end_time": 2183,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Would you do it again? Was it the same effect between a quarter mile [inaudible] do a quarter mile."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "092ad219-240b-4371-a897-e08eea75d2a6"
+    },
+    {
+      "start_time": 132360,
+      "end_time": 121560,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "82060f00-47f6-425e-a275-46892e510a3d"
+    },
+    {
+      "start_time": 2210,
+      "end_time": 2213,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "31,41, A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "67ae4270-4a77-43b6-a38c-785eb5fd9c69"
+    },
+    {
+      "start_time": 2215,
+      "end_time": 2218,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Shall I make an explanation of this? Yes sir."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0d0cfc8f-9b97-48b2-8302-9cbabbf89d27"
+    },
+    {
+      "start_time": 2220,
+      "end_time": 2243,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "during my early childhood days in Lee County, SC, my brother-in-law used to carry me about with him at night to these old fashioned dances and he called sets. They would also send for him for 10 or 15 miles around to come and call sets. And one of the songs that I remember well is like this."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c7fdb416-378d-4844-9df1-459f7f69a017"
+    },
+    {
+      "start_time": 2280,
+      "end_time": 2282,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Are there more verses to that?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ae24e72d-41d0-445e-affe-947856e507ea"
+    },
+    {
+      "start_time": 2282,
+      "end_time": 2284,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "No that's all I remember."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "93e61e15-e21d-4524-a181-004802b78dd3"
+    },
+    {
+      "start_time": 137160,
+      "end_time": 137160,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Will you sing that, will you repeat the point [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ed72e036-1a34-4fb7-97fd-7b25a7409a31"
+    },
+    {
+      "start_time": 137340,
+      "end_time": 137340,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9023efe6-83d0-49cb-8a46-580b700118b3"
+    },
+    {
+      "start_time": 2326,
+      "end_time": 2346,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now, Those last directions, were they taught, is that what he called out for them to do?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d0fed279-54ba-4f44-aa79-e0a6e2e2b77c"
+    },
+    {
+      "start_time": 139920,
+      "end_time": 139920,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes sir."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "555db654-4029-4e19-b6e2-470d14e208ad"
+    },
+    {
+      "start_time": 139980,
+      "end_time": 139980,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What do they do on the song part, I mean."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ede47cd2-5909-431d-a21f-d51d99f91af4"
+    },
+    {
+      "start_time": 140100,
+      "end_time": 140100,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They'd be dancing."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "924a8285-ea1a-4cd6-987c-79f07b64240e"
+    },
+    {
+      "start_time": 140160,
+      "end_time": 140160,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They'd be dancing."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6cee6686-7f88-4c71-bcc3-816ab88af7ec"
+    },
+    {
+      "start_time": 140220,
+      "end_time": 140220,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "When they said do it the right, they'd be swinging their partners to the right and choosing, changing partners."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ee871bf1-ac38-40ec-9613-0a3555419185"
+    },
+    {
+      "start_time": 140460,
+      "end_time": 140460,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I see. The last part was giving directions. The rest of the time they were dancing."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ade968a6-d913-453f-868c-1fcafa4696f0"
+    },
+    {
+      "start_time": 140700,
+      "end_time": 140700,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes sir"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "17dcf11e-e5d4-43fc-807c-5c7489242966"
+    },
+    {
+      "start_time": 140760,
+      "end_time": 140760,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What kind of dancing were they doing?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "acecb6b2-6b3e-4e35-b525-8ad1cde2f7a2"
+    },
+    {
+      "start_time": 2346,
+      "end_time": 2346,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, old fashioned slow dancing is all I knew, they called it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "35148ef9-c2bf-444b-904a-8bdbaed6c0c3"
+    },
+    {
+      "start_time": 141360,
+      "end_time": 141360,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "74f48f4f-5a04-4c54-8d77-2d1298131378"
+    },
+    {
+      "start_time": 2356,
+      "end_time": 2373,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "There was an old gentleman when I was a little boy in Sumter, South Carolina, who used to go around the streets selling fish. And this was the song that he would sing in the morning as he came down Manning Avenue where I lived and other streets throughout the city and could be heard for quite a distance, several blocks, singing."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "02057766-f724-4afe-9534-984f747ad1db"
+    },
+    {
+      "start_time": 2400,
+      "end_time": 2402,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Is that you as a kid? You learned it as a boy?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "470d3b2c-8da3-4b62-b4fb-69a3afbe61f6"
+    },
+    {
+      "start_time": 2402,
+      "end_time": 2402,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes, sir, I wrote, 9 or 10 years old."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bd49d89f-6d70-4aee-8c23-9dad9bb394e3"
+    },
+    {
+      "start_time": 2447,
+      "end_time": 2466,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "During my early boyhood days I had to nurse my sister's children. I wasn't, being my sight being affected I would not work on the farm and they made me nurse the children. These are some of the songs I liked to sing with the babies in my arms in the, under the tree shade or sometimes on the porch."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "39d1a50e-2094-418b-9033-17b537306b03"
+    },
+    {
+      "start_time": 2529,
+      "end_time": 2530,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Irene Jackson"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "464f955e-91e3-469e-9869-684e04602fa0"
+    },
+    {
+      "start_time": 2531,
+      "end_time": 2532,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How old are you?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "53a048c2-9885-463c-ab2a-52cd83b8fab4"
+    },
+    {
+      "start_time": 2532,
+      "end_time": 2534,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I'll be 40 my next birthday."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e4ebde3e-a7f0-438b-8b4b-a32b9ecd1f97"
+    },
+    {
+      "start_time": 2535,
+      "end_time": 2536,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And where were you brought up?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e318461e-821c-4e41-a31b-7e1790202486"
+    },
+    {
+      "start_time": 2537,
+      "end_time": 2538,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "In South Jacksonville, FL."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f9e71151-840c-44b9-9c3d-2573a5dff590"
+    },
+    {
+      "start_time": 2539,
+      "end_time": 2541,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And what is it, tell us about what you are going to sing?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bdc36bbd-dcb9-4264-8673-d7fd70366a26"
+    },
+    {
+      "start_time": 2543,
+      "end_time": 2543,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "It's just a play we used to have when we were children and we would be playing church and then rather than sing church songs, we'd make up our songs and we called it our 'play church'."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f84ec2fc-0df0-4271-afa6-bfb69a4af202"
+    },
+    {
+      "start_time": 153420,
+      "end_time": 153420,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You did? Well, woud you start in with?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0d932fcd-9a1d-438a-8b95-25118e5f51bb"
+    },
+    {
+      "start_time": 2560,
+      "end_time": 2564,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "When you were small did you play it with a guitar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b9dfd858-7317-4f29-947b-59b867a688e9"
+    },
+    {
+      "start_time": 2563,
+      "end_time": 2565,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "No, I was just playing with it since then."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "63652db9-f634-4cc9-ab4f-5688ca1db8d3"
+    },
+    {
+      "start_time": 2565,
+      "end_time": 2565,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You're playing it with a guitar since then. Why are you singing it with a guitar? Can you sing it without?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "88145fce-7723-464e-b8b6-c40157815361"
+    },
+    {
+      "start_time": 2570,
+      "end_time": 2570,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes, I could."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e5363d65-4371-459f-9030-2162c44febe0"
+    },
+    {
+      "start_time": 2571,
+      "end_time": 2571,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, would you try it without?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1e56cbf3-ad6a-4cdc-aa56-ccf2ac92c1cb"
+    },
+    {
+      "start_time": 2573,
+      "end_time": 2573,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0ad1985d-7d33-4c03-b13a-885ae443283d"
+    },
+    {
+      "start_time": 2574,
+      "end_time": 2574,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Try it without."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fb8adaac-5d54-413d-a6ac-647cf15e3bd7"
+    },
+    {
+      "start_time": 2574,
+      "end_time": 2574,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Bang] Oh my god."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e11a1795-ddfc-4c02-a222-8ef82a13884e"
+    },
+    {
+      "start_time": 2576,
+      "end_time": 2579,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "That's alright. Don't worry about it. Go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c3c3a21c-44dc-4cb3-8048-20362625bef9"
+    },
+    {
+      "start_time": 2639,
+      "end_time": 2643,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And that's one you used to, you used to play games to that?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9ff8771b-1573-4666-b89a-508ebcd9f9c1"
+    },
+    {
+      "start_time": 2651,
+      "end_time": 2651,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Explain about that."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "98419237-d1c3-47cb-9446-58879f4c3b75"
+    },
+    {
+      "start_time": 2653,
+      "end_time": 2664,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, we would be having service and it was time for our preacher to preach though. He couldn't preach out the bible so we'd just take a word and add on and go to preaching. We'd be out in the yard."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cd247538-263c-4f00-bd98-822d2d953c02"
+    },
+    {
+      "start_time": 2664,
+      "end_time": 2667,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, where was this? Where would you be? You wouldn't be doing it in the church."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4477d481-cbc4-4d96-aba3-c6482d55828d"
+    },
+    {
+      "start_time": 2667,
+      "end_time": 2668,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "No, we'd be out in the yard."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "29153cbd-e7e2-4d24-be05-5253d3524b2b"
+    },
+    {
+      "start_time": 2668,
+      "end_time": 2669,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Just playing."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f83347fc-0ae4-4125-b7e0-d340586297a5"
+    },
+    {
+      "start_time": 2669,
+      "end_time": 2669,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Clean."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3a308a2c-d849-41c7-8f8e-bf1cdfb75e1f"
+    },
+    {
+      "start_time": 2669,
+      "end_time": 2669,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh-huh"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9dee94e2-f25f-46d8-8607-955d4bf71827"
+    },
+    {
+      "start_time": 2711,
+      "end_time": 2718,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The closing part of children's sermon that we used to have."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7bfe6754-cc9f-4a50-b5d7-5941ac85bd14"
+    },
+    {
+      "start_time": 164820,
+      "end_time": 164820,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "03a07eec-b9b1-4b98-b37a-5ab512dcf409"
+    },
+    {
+      "start_time": 2761,
+      "end_time": 2764,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alabama Singleton. I am 33-years-old."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aab99ab8-ad1f-48bf-8364-d0266f475965"
+    },
+    {
+      "start_time": 2765,
+      "end_time": 2766,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And where were you brought up?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4f0f0b3e-baa8-441b-9556-7ae98d3d3c5a"
+    },
+    {
+      "start_time": 2766,
+      "end_time": 2766,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Savannah, GA"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3aa0155a-0503-4a99-b10e-2ff01164a149"
+    },
+    {
+      "start_time": 2768,
+      "end_time": 2771,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And, uh, what are you going to [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1dca5863-2ee4-4b9d-ad58-570d0f7b1c78"
+    },
+    {
+      "start_time": 2771,
+      "end_time": 2775,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "A play that we used to play when we were children in Savannah."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1b2bb09a-156b-450b-9854-05e79931879f"
+    },
+    {
+      "start_time": 2777,
+      "end_time": 2778,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And what was it called?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b60e9869-b5b5-4cee-8cbd-223525147cdf"
+    },
+    {
+      "start_time": 2779,
+      "end_time": 2782,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "A ring play, just a ring play, a children's ring play"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "96f07d97-ef33-4a60-91a4-1a4ae46bfeeb"
+    },
+    {
+      "start_time": 2783,
+      "end_time": 2784,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright. Sing."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bb0aa92c-6835-45bd-a95d-7329b90aa53e"
+    },
+    {
+      "start_time": 168180,
+      "end_time": 168180,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3de9d655-e0e0-4b6f-ad6b-e3e24ea423dc"
+    },
+    {
+      "start_time": 2832,
+      "end_time": 2835,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How did they play that?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "280c6deb-01df-46de-9c54-6820fbf0607f"
+    },
+    {
+      "start_time": 2835,
+      "end_time": 2835,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "A ring play, yes. When you say 'go all around the maypole' you'll join hands and be going around the ring and then you're showing your emotion and doing a little dance."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6db2b8ee-6071-4e03-8cc5-5ded83e21498"
+    },
+    {
+      "start_time": 2843,
+      "end_time": 2843,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well now, how do you, was there somebody [inaudible]."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5ece5d7a-2c5d-48e8-ab20-7da24b596905"
+    },
+    {
+      "start_time": 2845,
+      "end_time": 2845,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "In the middle of the ring and the rest of the children would be patting their hands."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "65a2aef6-521f-4927-a021-b657f0e50414"
+    },
+    {
+      "start_time": 2849,
+      "end_time": 2849,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Could you pat the way they did? Take it over again and do the patting."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c3af1d55-8950-42de-86ef-0cc0f932a03c"
+    },
+    {
+      "start_time": 2851,
+      "end_time": 2851,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "aa7cdd8b-8a33-4e02-af10-32d0db9aa81f"
+    },
+    {
+      "start_time": 2855,
+      "end_time": 2855,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7e8b78ff-1560-49b8-abc6-f814eef8d23c"
+    },
+    {
+      "start_time": 2857,
+      "end_time": 2857,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "70cd11ab-a590-4e06-b281-19071668788d"
+    },
+    {
+      "start_time": 2858,
+      "end_time": 2862,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, when you throw around the maypole you doesn't pat because your hands be joined then."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "601e8477-43d9-4ea7-a625-6d12ef54f4a4"
+    },
+    {
+      "start_time": 2862,
+      "end_time": 2862,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh, I see, well sing that and don't do your hands [Inaudible]."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5d14d33e-8972-485d-a15c-4390091263d2"
+    },
+    {
+      "start_time": 173760,
+      "end_time": 173760,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now, what kind of motion would they do?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "acf25826-f5bd-48c3-80fe-fd7f94b9accc"
+    },
+    {
+      "start_time": 173880,
+      "end_time": 173880,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh, shucks. There'd be motion of their feets. [Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c28cc92c-e35e-4716-822f-2f87e30b2cbc"
+    },
+    {
+      "start_time": 174300,
+      "end_time": 174300,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, there was a man in Savannah Georgia used to sell watermelons and he would come through every morning early and we'd hear him sing."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b1946b8b-5010-4cd1-ad36-39d4c39289a8"
+    },
+    {
+      "start_time": 178800,
+      "end_time": 179400,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Maggie Fulton"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ca23d849-8b92-4ecb-9e57-9381b0def032"
+    },
+    {
+      "start_time": 2983,
+      "end_time": 3003,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible] Just sitting down is alright. Well no, I want to get it close to you. I'm going to put it around here.  Now, you just face in that direction. Talk right out. [Adjusts the microphone]."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f74a0ce7-68ff-41f4-8fb7-d29c0a3d4855"
+    },
+    {
+      "start_time": 3003,
+      "end_time": 3004,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Maggie Fulton"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d4d89d96-b188-434e-ab5a-5d483364ba9a"
+    },
+    {
+      "start_time": 3004,
+      "end_time": 3005,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And how old are you?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "83e9b105-98f2-4c61-8798-97652abfc07e"
+    },
+    {
+      "start_time": 3006,
+      "end_time": 3006,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "43"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dee7d672-4179-4398-bca8-a5f890a35b9b"
+    },
+    {
+      "start_time": 3008,
+      "end_time": 3008,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Tell us about this game. Where you learned it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "614e6bb5-3b57-40b4-91e2-1d749f63080f"
+    },
+    {
+      "start_time": 3011,
+      "end_time": 3020,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well I learned it at my home in Leesville, South Carolina, a little childhood play. The play goes like this."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "08166bd7-be24-48b7-924a-fbe49f293b6e"
+    },
+    {
+      "start_time": 3035,
+      "end_time": 3040,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, what, how did it go on? What else happened? What happened in the game?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ebaf7ce5-375a-4a2c-8a01-96631c796219"
+    },
+    {
+      "start_time": 3040,
+      "end_time": 3044,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, the children would act as if they were flying like the turkeys."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "08b44229-e5b7-4215-89ce-2a38fdbfb1a6"
+    },
+    {
+      "start_time": 3045,
+      "end_time": 3051,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "As if they were flying like a turkey? How was it played and how did they start off play"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c92d062d-8bc6-47ae-aa9d-631eebdcbe92"
+    },
+    {
+      "start_time": 3051,
+      "end_time": 3074,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "So they start off playing all over so if you're standing around and one would say 'Little girl, little girl have you been to the barn' and everyone said, yes Ma'am. And they answered 'Did you see my turkey?'' You say 'Yes Ma'am'. And you say 'How high did it fly' and you say 'So high' and then everybody stretched their arms up as if it was the wingspan."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4e70b642-a9d2-4350-aa01-a1c4a773371a"
+    },
+    {
+      "start_time": 184140,
+      "end_time": 184140,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now you'll have to talk a little bit louder now on the next game."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "feec833c-c2da-4fb8-b41b-606b8e5a6c22"
+    },
+    {
+      "start_time": 184320,
+      "end_time": 184320,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e017cb75-4254-4ebd-8818-80c5c298c31b"
+    },
+    {
+      "start_time": 184740,
+      "end_time": 184860,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Just a little barnyard play"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "72242cfc-fde3-4a8e-be77-a9f0094161d3"
+    },
+    {
+      "start_time": 184860,
+      "end_time": 184980,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright. How does it go?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2e91829b-9e7b-4fb2-bfab-fcb5e9f4c6b7"
+    },
+    {
+      "start_time": 3136,
+      "end_time": 3166,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Harold B. Hazelhurst (HBH): I'm 30 yrs old, born in Georgia, reared in Florida, a water boy on the Marlboro camp, introduces a song."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8c44c195-35e0-4491-b8a3-c1a388671c41"
+    },
+    {
+      "start_time": 3141,
+      "end_time": 3142,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And where were you brought up?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a1761d81-251f-420e-83e7-8daf25c2573c"
+    },
+    {
+      "start_time": 3142,
+      "end_time": 3145,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I was born in Georgia and reared in Florida."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2bc3a741-4a7d-428a-9f74-adf4e9b9ac9e"
+    },
+    {
+      "start_time": 3146,
+      "end_time": 3146,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Where did you learn this particular song?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f21d7fbc-b0e6-42cf-aa60-f7e11dd77a33"
+    },
+    {
+      "start_time": 3148,
+      "end_time": 3150,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I learned this song in middle Florida."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5f357dd0-8198-455e-8c0a-a5433d5a24d9"
+    },
+    {
+      "start_time": 3150,
+      "end_time": 3153,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How did you learn it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6601bb42-a6c3-439f-bc57-3a24dafad508"
+    },
+    {
+      "start_time": 3153,
+      "end_time": 3159,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I was water boy on the hard road camp and the men during the day would sing these songs while they were working."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fc25afe2-e7e1-4d6b-b965-32f0d6c11827"
+    },
+    {
+      "start_time": 3159,
+      "end_time": 3161,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What is this one called?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "745123b5-f6af-473e-b3b7-65c330165ff6"
+    },
+    {
+      "start_time": 3161,
+      "end_time": 3166,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": " Uh, it was called . . . it didn't have no particular name. They called it 'the Captain's Mule.'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "527dff98-24d9-4041-9eb1-c59351a7879b"
+    },
+    {
+      "start_time": 3166,
+      "end_time": 3168,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I like that. Alright. Let's hear it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8ab701c3-e786-4c10-853c-12243b6376d8"
+    },
+    {
+      "start_time": 3303,
+      "end_time": 3303,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You say that was sung on the hard road camp?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9a94355c-3317-464d-b468-141153c4813b"
+    },
+    {
+      "start_time": 198420,
+      "end_time": 198420,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes, sir."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b7a6e2e2-807a-4636-8dae-cc95189f70e3"
+    },
+    {
+      "start_time": 198480,
+      "end_time": 198480,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What would they sing it for?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f2586bc3-76f8-4ec4-a3e0-24b0d97f6ef8"
+    },
+    {
+      "start_time": 3308,
+      "end_time": 3308,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, it was during the day when it was warm weather and the fellows would get kind of jaded and they'd sing that to get themselves aroused again and to get more interested in their work"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "65566efa-ae71-4fa3-ad07-17afe77dc92d"
+    },
+    {
+      "start_time": 3317,
+      "end_time": 3319,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What kind of work were they doing?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "51dce9a1-ceae-495f-baa3-9bfd459d3829"
+    },
+    {
+      "start_time": 3319,
+      "end_time": 3319,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They were driving wheelers, driving mules on graded camp."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2fbe8a41-a7f7-4e5e-b193-bdf1e94a3602"
+    },
+    {
+      "start_time": 3323,
+      "end_time": 3330,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And these were the mule-skinners who were doing the singing? And what do they do? Sing the song while they were [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0045da74-0b13-4b7c-9946-2ec0f94c8228"
+    },
+    {
+      "start_time": 3329,
+      "end_time": 3333,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Sing the song as the mules were going up and down the grade, loading."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7ea84f40-0216-4d9b-bc62-77935ce41fed"
+    },
+    {
+      "start_time": 3339,
+      "end_time": 3340,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And what is the name of this song?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1dca918b-6e61-44ae-bf5a-1729c6df0760"
+    },
+    {
+      "start_time": 3340,
+      "end_time": 3341,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The name of this song is 'John Henry'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0ae3fc3e-d02b-43d0-b915-96a016f5f91d"
+    },
+    {
+      "start_time": 3342,
+      "end_time": 3343,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now how did you happen to learn it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cd417d16-f35c-441f-8ecc-cbb2d08d0000"
+    },
+    {
+      "start_time": 3343,
+      "end_time": 3343,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "During the time that I was a water boy, between the age of 15 and 16 on a logging camp railroad. The men during the day would sing this while they were driving spikes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "36302a2a-1983-43c5-a9b8-41b55dae8aa7"
+    },
+    {
+      "start_time": 3356,
+      "end_time": 3356,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "While they were driving spikes. Could you mark off how the hammers would be coming down? Just where they'd be coming, hitting against this."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e796d4f9-c012-4fa1-9b39-71bd05e3e657"
+    },
+    {
+      "start_time": 201900,
+      "end_time": 201900,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Like that."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ece56839-1deb-464e-9f3c-f639314136bb"
+    },
+    {
+      "start_time": 201960,
+      "end_time": 198360,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yeah, that would be good."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c20ede61-a47f-4677-bf97-c09a72ffd329"
+    },
+    {
+      "start_time": 3366,
+      "end_time": 3366,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, they'd be double-driving."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cc9f22ab-2b86-4de3-8aa0-5e016b5a36ad"
+    },
+    {
+      "start_time": 3367,
+      "end_time": 3380,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Banging] Alright. Can you, You can double-drive as long as you don't double-drive on the microphone. Alright. That's fine. Now, uh, and, This is 'John' -- you were telling me that this 'John Henry' wasn't sung the same way always? I mean, they wouldn't begin --"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "df01bd02-2b02-4cfa-829e-f8345d227d5e"
+    },
+    {
+      "start_time": 3380,
+      "end_time": 3391,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, no, they wouldn't begin at the same place all the time. Sometimes they'd begin when he was only six months old or perhaps they would begin by John Henry he had a little woman."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f20be933-1346-4d43-be7e-52b48fe1991d"
+    },
+    {
+      "start_time": 3391,
+      "end_time": 3395,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well now tell me, uh, but did they always have the same tune to it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "80c3e65c-e857-42bc-b867-a22e46c7b36b"
+    },
+    {
+      "start_time": 3395,
+      "end_time": 3400,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh yes, they had the same tune all the time but different wording. You know. They would make up words all the time."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "557bf0bb-ec6f-4145-a160-e6b5419b9f5a"
+    },
+    {
+      "start_time": 56,
+      "end_time": 218,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston sings 'Mule on the Mount'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3aa955aa-d50a-40d2-8bc5-7af1e036db94"
+    },
+    {
+      "start_time": 625,
+      "end_time": 769,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston sings 'Let the Deal Go Down'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1d44cb75-08ea-48b0-a724-1fe43f109e81"
+    },
+    {
+      "start_time": 826,
+      "end_time": 953,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston sings 'Uncle Bud'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c7b116d8-30ee-4b2b-95f0-bd30fff7e397"
+    },
+    {
+      "start_time": 989,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston sings 'Oh the Buford Boat Done Come'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4f94334a-1a8b-4676-b39d-8e74ed41a8aa"
+    },
+    {
+      "start_time": 1077,
+      "end_time": 1188,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston sings 'Cuz Ever Been Down'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8271c8ef-2102-474f-96f8-764152b38745"
+    },
+    {
+      "start_time": 1210,
+      "end_time": 1269,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston sings 'Halimuhfack'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "64c0c6c2-8f26-41e7-b9d6-2ea28d580717"
+    },
+    {
+      "start_time": 1339,
+      "end_time": 1386,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston sings 'Tampa'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "146c5bc0-b88e-494d-bd9e-8452771bc327"
+    },
+    {
+      "start_time": 1438,
+      "end_time": 1583,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston sings 'Po Boy'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c75195fa-4dfc-41c9-bbd2-80745ad2307c"
+    },
+    {
+      "start_time": 1623,
+      "end_time": 1728,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston sings 'Mama Don't Want No Peas No Rice'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4fad8d5e-8be8-49c9-b752-9f8799dbe9c5"
+    },
+    {
+      "start_time": 2000,
+      "end_time": 2025,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "H.W. Stuckey sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "83a3531f-fd18-4edd-859d-5c9d9012413d"
+    },
+    {
+      "start_time": 2057,
+      "end_time": 2096,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "H.W. Stuckey sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7b061e64-21ef-4b2f-a3cb-a889e8077a26"
+    },
+    {
+      "start_time": 2127,
+      "end_time": 2148,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "H.W. Stuckey sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "11c8f898-8703-4c97-a7cd-c11ea1f6e35d"
+    },
+    {
+      "start_time": 2185,
+      "end_time": 2185,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "H.W. Stuckey sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5eda4407-fda2-4676-aaf2-b6ca3dea74b5"
+    },
+    {
+      "start_time": 2244,
+      "end_time": 2280,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "H.W. Stuckey sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2e788678-d98e-48b8-b4ef-0b6c8446626d"
+    },
+    {
+      "start_time": 2290,
+      "end_time": 2325,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "H.W. Stuckey sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "33d80939-fc80-41a2-b5d4-8dca16968061"
+    },
+    {
+      "start_time": 2374,
+      "end_time": 2398,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "H.W. Stuckey sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7eadc4c1-2bca-4489-9b35-84b95eb1b156"
+    },
+    {
+      "start_time": 2411,
+      "end_time": 2433,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "H.W. Stuckey sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "74528bdd-3c64-49c2-a37e-c62f086dc3d7"
+    },
+    {
+      "start_time": 2468,
+      "end_time": 2518,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "H.W. Stuckey sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5814299a-774e-44b8-a722-409727d09115"
+    },
+    {
+      "start_time": 2579,
+      "end_time": 2635,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Irene Jackson sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9ff41e7b-4f27-4203-9b71-d96ae50ed8f2"
+    },
+    {
+      "start_time": 2673,
+      "end_time": 2702,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Irene Jackson sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "745e64bb-134a-4cee-aaa0-b0e857ff43ad"
+    },
+    {
+      "start_time": 2718,
+      "end_time": 2757,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Irene Jackson chants"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1b24a725-5e72-4ca4-83c7-4d5095cde8da"
+    },
+    {
+      "start_time": 2785,
+      "end_time": 2785,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alabama Singleton sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5cf7923d-6df8-4d82-b630-691d4ad6051a"
+    },
+    {
+      "start_time": 2867,
+      "end_time": 2894,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alabama Singleton sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7b526c63-7fd9-4e95-af33-7dbef8aeabe0"
+    },
+    {
+      "start_time": 2913,
+      "end_time": 2944,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alabama Singleton sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e46c67c2-0848-481e-867a-bb1810fe26cf"
+    },
+    {
+      "start_time": 2950,
+      "end_time": 2971,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alabama Singleton sings"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "69cd9ca7-fbe2-4e66-bef7-bbcfff090dfa"
+    },
+    {
+      "start_time": 3021,
+      "end_time": 3033,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Maggie Fulton chants a game"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cb916fa5-71da-4b41-9a94-21ffe83f5b27"
+    },
+    {
+      "start_time": 3078,
+      "end_time": 3095,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Maggie Fulton sings a song"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5c9734a8-4a5b-455f-bc3e-ae2c867bd842"
+    },
+    {
+      "start_time": 3100,
+      "end_time": 3100,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Maggie Fulton demonstrates a game"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9efb50f1-104e-4d0f-9a49-a990d244c2b7"
+    },
+    {
+      "start_time": 3168,
+      "end_time": 3228,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Harold B. Hazelhurst sings 'The Captain's Mule'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f9219956-a873-47b1-96e6-99454d8d1859"
+    },
+    {
+      "start_time": 3236,
+      "end_time": 3300,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Harold B. Hazelhurst sings \"John Henry\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6d42c32d-3770-40e4-b822-664611eb7866"
+    },
+    {
+      "start_time": 242,
+      "end_time": 242,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3137 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cb3fcee8-2b68-4afc-bb39-16b6334ede0a"
+    },
+    {
+      "start_time": 501,
+      "end_time": 505,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3137 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "12eb4fd1-f0d8-41b4-ae9a-650c459d8044"
+    },
+    {
+      "start_time": 775,
+      "end_time": 777,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3138 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "840d92b5-9b0e-4835-a170-8c3b72ed900a"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1042,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3138 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "342a8602-2cc8-460d-8cf9-9ba6cd5443ca"
+    },
+    {
+      "start_time": 1316,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3139 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "edefd47f-3c48-48de-8030-a76135cbc0c5"
+    },
+    {
+      "start_time": 1585,
+      "end_time": 1588,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3139 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b7e8209c-79a1-4681-802c-2c71413fee23"
+    },
+    {
+      "start_time": 1729,
+      "end_time": 1731,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3140a 1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "666fb87a-7b2a-44f1-b4ec-82d4256ff03b"
+    },
+    {
+      "start_time": 1939,
+      "end_time": 1941,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3140 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4bca7414-9838-427b-ab12-b3bc01e8c6ec"
+    },
+    {
+      "start_time": 2210,
+      "end_time": 2213,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3141 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b8089711-41e6-4dcc-bc5d-4732cda78a63"
+    },
+    {
+      "start_time": 2440,
+      "end_time": 2440,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3141 B1, 2, and 3"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "33ac2028-824a-49ae-858b-c8af1834f39c"
+    },
+    {
+      "start_time": 2706,
+      "end_time": 2710,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3142 A1, 2, and 3"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9d60214b-66c2-4bd5-ae79-76b0dacca3ff"
+    },
+    {
+      "start_time": 2975,
+      "end_time": 2979,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3142, B1, 2, 3, and 4"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cea4e893-bf94-44a6-98b5-5ddcd9726c21"
+    },
+    {
+      "start_time": 3230,
+      "end_time": 3234,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "3143 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ce384f51-a0b6-46b7-b586-4b858c10b229"
+    }
+  ],
   "set": "Default",
   "event_id": "a9d57244-c451-4916-9f65-c663fb56a0e4",
   "source_id": "511e3493-731a-41da-a8e6-3d2fb0b16482"
